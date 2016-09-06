@@ -1,3 +1,10 @@
+Tourist Application
+
+The aim of this application is to provide facilities to people which is basically looking for a new hotels, restaurants and neighbor place. The features combine the destination search, hotel search and Hotel deals and write query and customer contact. It is basically built on java, JSP servlets, Tomcat 7 and Mango DB. 
+
+
+
+
 -----------------------------
 How to Deploy:
 =============
